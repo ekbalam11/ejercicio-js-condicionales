@@ -15,3 +15,8 @@ if (4 > 3 && 6 > 5) {
 if (4 > 3 && -1 > 0) {
   console.log("Esta condición también se cumple?");
 }
+
+
+/**
+ * En el terminal vamos a ver solamente el primer mensaje porque la segunda condición no se cumple.
+ */
