@@ -7,3 +7,7 @@ if (1 < 2) {
 } else {
   console.log("Guau!");
 }
+
+/**
+ * Va a mostrar Miau! porque el condicional es cierto
+ */
